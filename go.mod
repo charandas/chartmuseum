@@ -1,4 +1,4 @@
-module helm.sh/chartmuseum
+module github.com/charandas/chartmuseum
 
 go 1.17
 
